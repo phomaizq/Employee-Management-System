@@ -1,0 +1,6 @@
+@Sever_HostAddress = http://localhost:5150
+
+GET {{Sever_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
