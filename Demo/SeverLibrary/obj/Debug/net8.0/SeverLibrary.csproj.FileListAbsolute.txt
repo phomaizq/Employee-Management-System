@@ -14,3 +14,5 @@ C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\ne
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\net8.0\BaseLibrary.pdb
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLib.961BC0C0.Up2Date
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\net8.0\SeverLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.genruntimeconfig.cache
