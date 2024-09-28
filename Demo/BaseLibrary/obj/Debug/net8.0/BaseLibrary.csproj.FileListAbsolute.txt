@@ -10,3 +10,4 @@ C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache

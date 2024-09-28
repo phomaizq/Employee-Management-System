@@ -10,3 +10,7 @@ C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\n
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
 C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\ClientLibrary\obj\Debug\net8.0\ClientLi.3D08BA28.Up2Date

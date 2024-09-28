@@ -1,12 +1,125 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246F9D56-84BF-42C6-940B-ECA87F3E9E3C}|Sever\\Sever.csproj|c:\\users\\hp\\desktop\\c#\\employee-management-system\\demo\\sever\\sever.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{246F9D56-84BF-42C6-940B-ECA87F3E9E3C}|Sever\\Sever.csproj|solutionrelative:sever\\sever.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD56DD7-3EF7-4B7A-8E65-43374EFC492D}|SeverLibrary\\SeverLibrary.csproj|c:\\users\\hp\\desktop\\c#\\employee-management-system\\demo\\severlibrary\\severlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DD56DD7-3EF7-4B7A-8E65-43374EFC492D}|SeverLibrary\\SeverLibrary.csproj|solutionrelative:severlibrary\\severlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F991FE-E410-43BF-A0B9-A51DC67B8B57}|Client\\Client.csproj|c:\\users\\hp\\desktop\\c#\\employee-management-system\\demo\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00F991FE-E410-43BF-A0B9-A51DC67B8B57}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDC32FB-E3D1-4C20-B8D9-75D94E6D107D}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\desktop\\c#\\employee-management-system\\demo\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EDC32FB-E3D1-4C20-B8D9-75D94E6D107D}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F4177F-204F-4C0B-87BF-DC10DB1A964D}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\hp\\desktop\\c#\\employee-management-system\\demo\\clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09F4177F-204F-4C0B-87BF-DC10DB1A964D}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseLibrary",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeToolTip": "BaseLibrary\\BaseLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:29:29.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientLibrary",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\ClientLibrary\\ClientLibrary.csproj",
+              "RelativeDocumentMoniker": "ClientLibrary\\ClientLibrary.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\ClientLibrary\\ClientLibrary.csproj",
+              "RelativeToolTip": "ClientLibrary\\ClientLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:29:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:29:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sever",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\Sever\\Sever.csproj",
+              "RelativeDocumentMoniker": "Sever\\Sever.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\Sever\\Sever.csproj",
+              "RelativeToolTip": "Sever\\Sever.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:28:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeverLibrary",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\SeverLibrary\\SeverLibrary.csproj",
+              "RelativeDocumentMoniker": "SeverLibrary\\SeverLibrary.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Employee-Management-System\\Demo\\SeverLibrary\\SeverLibrary.csproj",
+              "RelativeToolTip": "SeverLibrary\\SeverLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T17:27:36.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
