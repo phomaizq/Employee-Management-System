@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeverLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12e4521f495040ea9463f15231aeb04bfb08b04e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+888ec2d25c0c646733e913b38d40161cf0bea732")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeverLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeverLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
