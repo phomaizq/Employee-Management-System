@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\net8.0\SeverLibrary.deps.json
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\net8.0\SeverLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\bin\Debug\net8.0\SeverLibrary.pdb
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.sourcelink.json
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\refint\SeverLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\SeverLibrary.pdb
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\SeverLibrary\obj\Debug\net8.0\ref\SeverLibrary.dll

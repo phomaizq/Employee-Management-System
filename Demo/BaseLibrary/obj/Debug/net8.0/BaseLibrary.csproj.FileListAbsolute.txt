@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\hp\Desktop\C#\Employee-Management-System\Demo\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
